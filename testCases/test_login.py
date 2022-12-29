@@ -15,7 +15,7 @@ class TestLogin:
         self.driver.get(self.baseURL)
         act_title = self.driver.title
 
-        if act_title == "Your store Login":
+        if act_title == "Your store. Login":
             self.logger.info("**** Home page title test passed ****")
             self.driver.close()
             assert True
