@@ -1,0 +1,27 @@
+2022-12-29 21:38:21,506 - utilities.customLogger - DEBUG - debug message
+2022-12-29 21:38:21,507 - utilities.customLogger - INFO - info message
+2022-12-29 21:38:21,507 - utilities.customLogger - WARNING - warn message
+2022-12-29 21:38:21,507 - utilities.customLogger - ERROR - error message
+2022-12-29 21:38:21,507 - utilities.customLogger - CRITICAL - critical message
+2022-12-29 21:38:22,906 - utilities.customLogger - INFO - *************** Test_001_Login *****************
+2022-12-29 21:38:22,906 - utilities.customLogger - INFO - ****Started Home page title test ****
+2022-12-29 21:38:22,906 - utilities.customLogger - INFO - ****Opening URL****
+2022-12-29 21:38:25,676 - utilities.customLogger - INFO - **** Home page title test passed ****
+2022-12-29 21:38:43,459 - utilities.customLogger - INFO - ****Started Login Test****
+2022-12-29 21:38:50,019 - utilities.customLogger - INFO - ****Login test passed ****
+2022-12-29 21:39:42,617 - utilities.customLogger - INFO - *************** Test_001_Login *****************
+2022-12-29 21:39:42,617 - utilities.customLogger - INFO - ****Started Home page title test ****
+2022-12-29 21:39:42,617 - utilities.customLogger - INFO - ****Opening URL****
+2022-12-29 21:39:44,685 - utilities.customLogger - INFO - **** Home page title test passed ****
+2022-12-29 21:39:46,259 - utilities.customLogger - INFO - ****Started Login Test****
+2022-12-29 21:39:54,481 - utilities.customLogger - INFO - ****Login test passed ****
+2022-12-29 21:42:01,773 - TestLogger - INFO - *************** Test_001_Login *****************
+2022-12-29 21:42:01,774 - TestLogger - INFO - ****Started Home page title test ****
+2022-12-29 21:42:01,774 - TestLogger - INFO - ****Opening URL****
+2022-12-29 21:42:05,812 - TestLogger - INFO - **** Home page title test passed ****
+2022-12-29 21:42:23,441 - TestLogger - INFO - ****Started Login Test****
+2022-12-29 21:42:30,889 - TestLogger - INFO - ****Login test passed ****
+2022-12-29 21:54:34,281 - TestLogger - INFO - Started Home page title test
+2022-12-29 21:54:38,315 - TestLogger - INFO - **** Home page title test passed ****
+2022-12-29 21:54:39,893 - TestLogger - INFO - Started Login Test
+2022-12-29 21:54:48,940 - TestLogger - INFO - ****Login test passed ****
