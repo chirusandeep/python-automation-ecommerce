@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "python-automation-ecommerce"
+version = "0.1.0"
+description = ""
+authors = ["Chiru Sandeep Paleti"]
+readme = "README.md"
+packages = [{include = "python_automation_ecommerce"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pytest = "^7.2.0"
+selenium = "^4.7.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
